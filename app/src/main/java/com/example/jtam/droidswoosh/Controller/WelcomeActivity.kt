@@ -1,8 +1,9 @@
-package com.example.jtam.droidswoosh
+package com.example.jtam.droidswoosh.Controller
 
 import android.content.Intent
 //import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.jtam.droidswoosh.R
 //import android.view.View
 import kotlinx.android.synthetic.main.activity_welcome.*
 

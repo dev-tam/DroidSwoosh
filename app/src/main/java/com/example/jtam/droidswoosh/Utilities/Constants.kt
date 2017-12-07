@@ -1,4 +1,4 @@
-package com.example.jtam.droidswoosh
+package com.example.jtam.droidswoosh.Utilities
 
 /**
  * Created by jtam on 12/7/17.
